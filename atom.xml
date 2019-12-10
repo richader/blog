@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>逍遥之于</title>
+  
+  <subtitle>程序人生，了无痕迹</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2019-12-10T05:12:58.596Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>No.6</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>我认为的人工智能</title>
+    <link href="http://yoursite.com/2019/12/10/%E6%88%91%E8%AE%A4%E4%B8%BA%E7%9A%84%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/"/>
+    <id>http://yoursite.com/2019/12/10/%E6%88%91%E8%AE%A4%E4%B8%BA%E7%9A%84%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/</id>
+    <published>2019-12-10T05:12:47.000Z</published>
+    <updated>2019-12-10T05:12:58.596Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>旧文搬迁</p></blockquote><h3 id="理想中的人工智能"><a href="#理想中的人工智能" class="headerlink" title="理想中的人工智能"></a>理想中的人工智能</h3><p>人工智能，也就是机器智能，人类制造出各种工具，帮助人来解决各种问题。机器是人类目前制造出的最强大工具，人类下一步希望机器能像人一样智能，彻底替代人类活动来解决问题。理想的人工智能会有以下能力：</p><a id="more"></a><ul><li>归纳能力<br>归纳能力，即从大量信息、数据中，归纳总结出规律、特征的能力。</li><li>决策能力<br>评估和做出选择的能力</li><li>推导能力<br>能够基于规律、逻辑，从一些现象，推导出另一些现象。</li><li>学习能力<br>包括使用从外部输入的知识的能力，和总结出来的知识规律相互影响的能力</li></ul><h3 id="当前的人工智能"><a href="#当前的人工智能" class="headerlink" title="当前的人工智能"></a>当前的人工智能</h3><p>当下的人工智能在个别方向上已经强于人类，但离理想的人工智能还有点远。</p><ul><li>强大但单一的归纳能力<br>得益于计算机强大的计算和数据处理能力，机器学习在一些单项的归纳能力已经超过了人类，比如人脸识别。但在复杂的场景上，受限于数据和计算力，归纳能力还不足于用来解决问题，比如自动驾驶。自动驾驶需要归纳识别三维场景，识别前面是什么物体：人、动物、车、路、路肩、路障、各种障碍物，还要识别物体的距离、相对速度是什么；需要从环境中识别出各种指示牌，需要识别各种指示牌是什么意思。自动驾驶还需要归纳在各种场景下做不同响应时的结果是什么，加速的结果、减速的结果、转弯的结果等。</li><li>可以有的决策能力<br>决策，也就是做取舍判断。只要有了价值评估和比较的办法，就可以进行决策。AlphaGo基于各种局势发展的结果进行归纳，并对各种发展选择的优劣进行比较，就可以在下棋过程中进行决策，战胜人类。目前的大部分机器学习系统，还只是发挥了算法的归纳能力，还没有用来做决策指导人类。人脸识别系统归纳人脸特征，并对人脸对比做出了决策，但还是起辅助作用。</li><li>偏门的推理能力<br>历史上的人工智能推理能力，可以用来推理数学定理。不了解现在的使用状况</li><li>近乎无的学习能力<br>学习能力包括两方便，一个是归纳总结知识，一个总结出来的知识相互影响使用的能力，这里指后一个。目前的机器学习大多进行单一的学习，但归纳出来的算法、知识，无法分解和互相结合。比如单独学习物体的特征和单独学习三维物体的光影变化，无法结合起来在三维场景中对物体进行识别。直接识别三维场景中的物体，无法分解出物体特征知识和三维物体光影变化的知识，将三维物体光影变化知识用在其它物体上。目前的机器学习系统可以自己归纳学习，可以直接使用别人归纳出来的知识，但无法对不同的知识进行融合来使用。</li></ul><h3 id="人工智能的特点"><a href="#人工智能的特点" class="headerlink" title="人工智能的特点"></a>人工智能的特点</h3><p>当前的人工智能是在信息系统上发展出来的，基于大量数据，进行归纳并做出决策的系统。借助各种信息采集设备，解决了数据输入的问题，但只是输出信号，还无法很好的解决现实空间的问题。解决现实空间的问题，需要机械和动力支撑。<br>当前的人工智能，离真正的智能还有很远的距离，仅在归纳上和辅助决策上有较好的表现。同时作为一个信息系统，具有运算力强大、能处理大量数据、不知疲倦、轻易复制的特点。</p><h3 id="适用场景"><a href="#适用场景" class="headerlink" title="适用场景"></a>适用场景</h3><p>基于当前人工智能的特点，适用于有大量数据，基于经验进行归纳并做出决策，应用于个人的场景。当前人工智能在归纳任务上表现不错，但需要大量数据，人工智能影响现实世界，只需要做出决策就行，对外部依赖较少。人工智能能处理大量数据、不知疲倦、轻易复制的特点，可将专业服务应用到大多数个人身上，解决人力资源不足的问题。</p><ul><li>推荐<br>通过大量的喜好数据，只需要对内容和人群进行归纳，就可根据个人的喜好历史，进行大量内容的分析，决策推荐内容。原本需要大量人力的工作，可以低成本应用到个人身上。 </li><li>教育<br>通过大量的学习、练习、测评数据，对学生的知识掌握情况进行分析，指导进行针对性的补漏、强化、提高学习；对教学效果进行评估，决策选择合适的授课方式。轻易复制出大量的教育专家、高级教师，对个人进行针对性教育、辅导、培训。 但教育所需要的共情、反馈等能力，人工智能还没发展出来。</li></ul>]]></content>
+    
+    <summary type="html">
+    
+      &lt;blockquote&gt;
+&lt;p&gt;旧文搬迁&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&quot;理想中的人工智能&quot;&gt;&lt;a href=&quot;#理想中的人工智能&quot; class=&quot;headerlink&quot; title=&quot;理想中的人工智能&quot;&gt;&lt;/a&gt;理想中的人工智能&lt;/h3&gt;&lt;p&gt;人工智能，也就是机器智能，人类制造出各种工具，帮助人来解决各种问题。机器是人类目前制造出的最强大工具，人类下一步希望机器能像人一样智能，彻底替代人类活动来解决问题。理想的人工智能会有以下能力：&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="行业" scheme="http://yoursite.com/categories/%E8%A1%8C%E4%B8%9A/"/>
+    
+    
+      <category term="随笔" scheme="http://yoursite.com/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>数据安全的思考</title>
+    <link href="http://yoursite.com/2019/12/10/%E6%95%B0%E6%8D%AE%E5%AE%89%E5%85%A8%E7%9A%84%E6%80%9D%E8%80%83/"/>
+    <id>http://yoursite.com/2019/12/10/%E6%95%B0%E6%8D%AE%E5%AE%89%E5%85%A8%E7%9A%84%E6%80%9D%E8%80%83/</id>
+    <published>2019-12-10T05:12:06.000Z</published>
+    <updated>2019-12-10T05:12:16.325Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>旧文搬迁，因为电脑被格式化了</p></blockquote><h3 id="现状"><a href="#现状" class="headerlink" title="现状"></a>现状</h3><p>随着前几年IT时代向DT时代发展的理念提出，数据安全也火热了起来。传统的安全视角是资产防护为主，套在数据安全上，落点自然在数据的存储中心—数据库上。各家安全厂商围绕数据库开发了数据库审计、数据库防火墙等多个产品。但数据库审计发展了近10年，到现在感觉已经到了产品的生命周期末尾。各厂商的数据库审计产品近两三年已经没有什么新功能推出，个别厂商甚至已经解散开发团队仅保留少量维护人员。国外知名安全厂商的产品序列上已经看不到独立的数据库安全产品。可现在仍处在IT时代向DT时代转变的过程中。</p><a id="more"></a><h3 id="问题"><a href="#问题" class="headerlink" title="问题"></a>问题</h3><p>等保合规需求促进了前几年数据安全的火热，但数据库安全产品一直未能真正帮助用户解决合规需求之外的问题，大部分采购只是为了满足合规解决有无的问题，并没有真正使用。数据库审计很好的记录了所有操作行为，但用于安全，希望能从数据中发现可能存在的风险，现有产品没有做好。每天几百万以上的记录，用户看不过来。通过策略规则去过滤，一是风险特征不明确难以制定规则，二是用户安全知识不足难以制定准确完备的规则。实际使用中就会产生大量的误报漏报。没有精确的风险识别，防火墙也无从发挥作用。</p><p>合规需求为主决定相应产品是销售驱动而不是技术驱动。销售驱动促进大量OEM合作，降低了安全产品厂商的利润率，造成技术驱动力不足。技术投入不足，使产品迟迟没有技术突破、过早进入生命周期末尾。</p><h3 id="未来"><a href="#未来" class="headerlink" title="未来"></a>未来</h3><p>伴随着IT时代进化到DT时代，是云计算的发展，数据中心化是趋势。数据将来集中在各种公有云、私有云上，对安全行业有很大影响：一是安全业务由云产品供应商提供，安全厂商的客户由最终用户变成云产品供应商，客户集中而强势，降低安全厂商利润。二是安全服务作为云平台高价值增值服务，云厂商可能自己开发安全产品提供安全服务。前几年安全行业火热的创投热潮，在未来可能没有那么美好。</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;blockquote&gt;
+&lt;p&gt;旧文搬迁，因为电脑被格式化了&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&quot;现状&quot;&gt;&lt;a href=&quot;#现状&quot; class=&quot;headerlink&quot; title=&quot;现状&quot;&gt;&lt;/a&gt;现状&lt;/h3&gt;&lt;p&gt;随着前几年IT时代向DT时代发展的理念提出，数据安全也火热了起来。传统的安全视角是资产防护为主，套在数据安全上，落点自然在数据的存储中心—数据库上。各家安全厂商围绕数据库开发了数据库审计、数据库防火墙等多个产品。但数据库审计发展了近10年，到现在感觉已经到了产品的生命周期末尾。各厂商的数据库审计产品近两三年已经没有什么新功能推出，个别厂商甚至已经解散开发团队仅保留少量维护人员。国外知名安全厂商的产品序列上已经看不到独立的数据库安全产品。可现在仍处在IT时代向DT时代转变的过程中。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="产品" scheme="http://yoursite.com/categories/%E4%BA%A7%E5%93%81/"/>
+    
+    
+      <category term="数据安全" scheme="http://yoursite.com/tags/%E6%95%B0%E6%8D%AE%E5%AE%89%E5%85%A8/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>安全产品</title>
+    <link href="http://yoursite.com/2019/12/10/secproduct/"/>
+    <id>http://yoursite.com/2019/12/10/secproduct/</id>
+    <published>2019-12-10T05:11:01.000Z</published>
+    <updated>2019-12-10T08:37:23.086Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>旧文搬迁</p></blockquote><p>安全产品的认知整理，参考:安全牛的<a href="http://all.aqniu.com/" target="_blank" rel="noopener">全景图</a></p><h2 id="边界防护"><a href="#边界防护" class="headerlink" title="边界防护"></a>边界防护</h2><p>传统安全以边界防护为主，首先考虑在用户网络边界阻止来自互联网的侵袭。</p><a id="more"></a><h3 id="防火墙"><a href="#防火墙" class="headerlink" title="防火墙"></a>防火墙</h3><p>防火墙的作用是从tcp/ip网络层面，拦截外部网络对内部服务器的访问。除了对外提供服务的指定IP、端口外（一般是web服务器、邮件服务器），禁止外部对内部其它机器的访问。 </p><img src="/2019/12/10/secproduct/firewall.jpg" class title="防火墙在网络中的位置">  <p>防火墙阻止外部直接访问内部不对外提供服务器的机器，留下对外提供服务的机器，但没法保证外部可以直接访问的机器不会被攻破，一旦对外服务的机器被攻破，就会成为攻击内部其它机器的跳板。一般会在对外提供服务的机器和内部机器之间再增加一道防火墙，形成DMZ区，阻止对外提供服务的机器主动访问内部其它机器。  </p><p>办公区域一般不需要防火墙。因为办公区域没有对外提供服务，不存在外部可以主动访问的地址，流量都是办公区域对外请求及返回的数据，也就不需要配备防火墙来拦截外部的攻击。</p><h3 id="网络隔离（网闸）"><a href="#网络隔离（网闸）" class="headerlink" title="网络隔离（网闸）"></a>网络隔离（网闸）</h3><p>防火墙将两个网络进行了逻辑隔离，但还是留下了可以直接进行网络会话通信的口子，比如DMZ区域和内网区域，一般只是限制了DMZ发起向内网的连接，但不禁止内网发起链接访问DMZ区域的服务。对于有更高安全需求的场景，还是存在漏洞，比如在DMZ区域服务器上挂木马，诱导内网下载后，就可以让木马连接DMZ获取指令来控制入侵内网其它机器。 </p><p>物理隔离可以达到更好的防护作用，但隔离的网络也会有数据交换的需求，就促生了网闸这个产品。网闸连接两边网络，但同一个时刻只能和一边建立连接，并使用较长的切换周期（小时为单位）。建立连接的时候可以在网闸的存储区域上传下载静态数据。这样网闸满足了数据交换，同时阻断网络的需求。网闸一般也会对通过存储区交换的数据进行病毒和木马扫描。</p><h3 id="入侵检测（IDS）、入侵防御（IPS）、统一威胁管理（UTM）、下一代防火墙"><a href="#入侵检测（IDS）、入侵防御（IPS）、统一威胁管理（UTM）、下一代防火墙" class="headerlink" title="入侵检测（IDS）、入侵防御（IPS）、统一威胁管理（UTM）、下一代防火墙"></a>入侵检测（IDS）、入侵防御（IPS）、统一威胁管理（UTM）、下一代防火墙</h3><p>防火墙只是根据会话的IP端口来拦截对内部服务器的访问。对外提供服务的服务器的访问流量，都能通过防火墙。<strong>入侵检测</strong>产品对这部分流量进行分析，识别其中的恶意访问并进行告警。入侵检测设备一般都是旁路部署，从镜像流量中分析恶意访问，病毒及木马行为。  </p><p>入侵检测设备旁路部署，对检测出来的恶意行为只能进行告警，无法进行有效拦截。在串联设备上，实现入侵检测的功能，并对识别出来的恶意行为进行拦截，就是<strong>入侵防御</strong>。侧重于阻止病毒的产品，有的厂家会启用新的名字，叫<strong>防病毒网关</strong>，以区分普通的入侵防御。具有防病毒功能的产品，会对恶意程序下载、邮件中的病毒、木马进行检测，也可以用在办公网的边界入口处。  </p><p>将入侵防御功能和防火墙功能，集成到一起，就是<strong>统一威胁管理</strong>。防火墙一般在操作系统内核实现，入侵防御在用户层实现，UTM设备只是防火墙功能和入侵防御功能的简单集成，难以做到大流量处理的高性能。重新规划架构设计，满足大流量高性能需求的产品，重新定义为<strong>下一代防火墙</strong>。</p><h3 id="抗DDOS"><a href="#抗DDOS" class="headerlink" title="抗DDOS"></a>抗DDOS</h3><p>对外提供服务的服务器，会面临各种恶意访问。其中一种利用大量正常或不正常的访问连接挤占服务方的网络带宽和服务器资源，阻止服务方正常提供服务的攻击方式，叫DDos攻击。从访问流量中识别并过滤这类恶意访问，对抗DDos攻击的产品或服务，为抗DDos。</p><h3 id="网络准入"><a href="#网络准入" class="headerlink" title="网络准入"></a>网络准入</h3><p>除了面向互联网提供服务需要边界防护，高级别安全要求的网络面对来自低级别安全要求的访问也要架设边界防护，如企业的生产域面对来自办公域的访问，办公域面对访客的访问等。不同于面向公众服务，内部网络可以甄别访问终端，根据访问终端做出访问限制。根据访问终端的进行访问控制，防止病毒、蠕虫、黑客攻击对企业信息安全造成危害的产品，叫网络准入。</p><p>准入设备一般通过地址校验、身份认证以及终端设备验证等手段检查终端合法性，同时进行终端合规性检查，查看接入系统的补丁、防病毒功能、安全策略的完备性。网络准入产品可以从网络层面终端进行隔离，以及对非法终端进行网络阻断。</p><blockquote><p>VPN是一种简单的通过身份认证来实现网络准入控制技术</p></blockquote><h3 id="上网行为管理"><a href="#上网行为管理" class="headerlink" title="上网行为管理"></a>上网行为管理</h3><p>上网行为产品部署在办公域边界，对办公域用户使用互联网进行管理，限制联网的设备、应用，对外发和浏览、下载的内容进行限制。</p><h2 id="内网安全"><a href="#内网安全" class="headerlink" title="内网安全"></a>内网安全</h2><p>存在数据交换的地方，就有可能会带来威胁。数据交换方式除了网络，还有各种数据传输介子，如U盘、光盘等，在边界安全之外催生一系列内网安全产品。内网安全产品既防护内网终端设备的安全，也防护侵害行为在内网的扩散。</p><h3 id="终端防护"><a href="#终端防护" class="headerlink" title="终端防护"></a>终端防护</h3><p>终端防护产品以查杀病毒、木马为主，通过扫描以及持续监控终端上的文件和程序，通过对比特征来识别恶意程序，并进行清理。</p><h3 id="漏洞扫描"><a href="#漏洞扫描" class="headerlink" title="漏洞扫描"></a>漏洞扫描</h3><p>漏洞扫描根据以暴露出来的漏洞知识库和入侵方式，对内部终端机应用进行扫描，发现存在的漏洞以及脆弱点。</p><h3 id="主机加固"><a href="#主机加固" class="headerlink" title="主机加固"></a>主机加固</h3><p>主机加固在漏洞扫描的基础上将系统修复自动化。修复方式主要包括跟踪安装补丁和完善系统安全策略的配置。</p><h3 id="终端检测及响应"><a href="#终端检测及响应" class="headerlink" title="终端检测及响应"></a>终端检测及响应</h3><p>终端检测产品监控、分析终端程序/用户在终端和内网的行为，力求在攻击行为发生前识别并响应处理。攻击行为对操作系统、应用程序都有针对性，在实施攻击前一般都会有环境识别的动作，可以通过这些区别于正常行为的特征，进行识别和响应处理。</p><h2 id="数据安全"><a href="#数据安全" class="headerlink" title="数据安全"></a>数据安全</h2><p>从数据存储的载体上和传输途径上着点，对数据进行访问限制等保护，形成一些列数据安全产品。</p><ul><li>文档安全 对常见文档进行加密保护，限制无权限访问的产品</li><li>磁盘安全 对磁盘上的文件进行加密保护，限制无权限访问的产品</li><li>数据库安全 对数据库里的数据进行保护的系列产品，包括数据库审计预警，数据库防火墙，数据库加密。</li><li>大数据安全 对大数据平台里的数据进行保护的产品，包括审计、授权和访问控制</li><li>数据防泄漏 对数据外发进行控制的产品，又分为网络防泄漏和终端防泄漏。网络防泄漏在边界分析流量，识别过滤对外发送的数据和文档。终端防泄漏安装在电脑终端上，监控对数据和文档进行访问的应用程序，防止浏览器、即时通讯等客户端工具访问数据的文档外发。网络防泄漏和终端防泄漏产品一般配合使用。即时通讯等程序采用私有协议，网络防泄漏无法全部识别。</li><li>传输加密 对传输过程中的数据、文档进行加密，防止通过嗅探的手段获取数据。</li><li>容灾备份</li></ul><h2 id="安全产品场景化"><a href="#安全产品场景化" class="headerlink" title="安全产品场景化"></a>安全产品场景化</h2><p>将通用安全产品应用在特殊场景上，进行跟深入的处理，衍生出一些列产品。</p><h3 id="应用安全"><a href="#应用安全" class="headerlink" title="应用安全"></a>应用安全</h3><p>在网络边界上，提供对外服务的形式大部分都是web服务。针对边界上的web服务，衍生出下列产品：</p><ul><li>web应用扫描和监控</li><li>web应用防火墙（WAF）</li><li>网页防篡改<h3 id="云安全"><a href="#云安全" class="headerlink" title="云安全"></a>云安全</h3>随着云计算的发展，将安全产品进行改造，适应云上的环境，部署在云平台上，对云平台上的服务进行防护的产品。包括：</li><li>云主机安全</li><li>云基础架构安全</li><li>云抗DDos</li><li>云WAF</li><li>云身份管理<h3 id="移动安全"><a href="#移动安全" class="headerlink" title="移动安全"></a>移动安全</h3>移动互联网、移动办公的发展，大量移动终端接入互联网以及企业网络，衍生出下列安全产品：</li><li>移动终端安全</li><li>移动应用安全</li><li>移动业务安全<h3 id="物联网安全"><a href="#物联网安全" class="headerlink" title="物联网安全"></a>物联网安全</h3>安全产品在特殊网络上的衍生</li><li>工业控制网络安全</li><li>车联网安全</li><li>视频监控网络安全<h3 id="身份认证与访问控制"><a href="#身份认证与访问控制" class="headerlink" title="身份认证与访问控制"></a>身份认证与访问控制</h3>进行身份认证和权限管理，并基于权限进行访问限制的安全产品。</li></ul><h2 id="安全管理"><a href="#安全管理" class="headerlink" title="安全管理"></a>安全管理</h2><h2 id="安全服务"><a href="#安全服务" class="headerlink" title="安全服务"></a>安全服务</h2>]]></content>
+    
+    <summary type="html">
+    
+      &lt;blockquote&gt;
+&lt;p&gt;旧文搬迁&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;安全产品的认知整理，参考:安全牛的&lt;a href=&quot;http://all.aqniu.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;全景图&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&quot;边界防护&quot;&gt;&lt;a href=&quot;#边界防护&quot; class=&quot;headerlink&quot; title=&quot;边界防护&quot;&gt;&lt;/a&gt;边界防护&lt;/h2&gt;&lt;p&gt;传统安全以边界防护为主，首先考虑在用户网络边界阻止来自互联网的侵袭。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="行业" scheme="http://yoursite.com/categories/%E8%A1%8C%E4%B8%9A/"/>
+    
+    
+      <category term="安全" scheme="http://yoursite.com/tags/%E5%AE%89%E5%85%A8/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>对比linux和c++的原子操作</title>
+    <link href="http://yoursite.com/2019/12/10/%E5%AF%B9%E6%AF%94linux%E5%92%8Cc-%E7%9A%84%E5%8E%9F%E5%AD%90%E6%93%8D%E4%BD%9C/"/>
+    <id>http://yoursite.com/2019/12/10/%E5%AF%B9%E6%AF%94linux%E5%92%8Cc-%E7%9A%84%E5%8E%9F%E5%AD%90%E6%93%8D%E4%BD%9C/</id>
+    <published>2019-12-10T05:09:44.000Z</published>
+    <updated>2019-12-10T05:10:29.515Z</updated>
+    
+    <content type="html"><![CDATA[<p>先说结论，在相同的机器上多次执行，感觉linux的原子操作比c++的原子操作快10%左右</p><a id="more"></a><h3 id="c-原子操作"><a href="#c-原子操作" class="headerlink" title="c++原子操作"></a>c++原子操作</h3><p>使用std::atomic,然后变量就可以正常使用。代码：</p><pre><code class="c++"><span class="meta">#<span class="meta-keyword">include</span> <span class="meta-string">&lt;iostream&gt;</span></span><span class="meta">#<span class="meta-keyword">include</span> <span class="meta-string">&lt;atomic&gt;</span></span><span class="meta">#<span class="meta-keyword">include</span> <span class="meta-string">&lt;thread&gt;</span></span><span class="meta">#<span class="meta-keyword">include</span> <span class="meta-string">&lt;sys/time.h&gt;</span></span><span class="keyword">using</span> <span class="keyword">namespace</span> <span class="built_in">std</span>;atomic&lt;<span class="keyword">int</span>&gt; value(<span class="number">0</span>);<span class="function"><span class="keyword">void</span> <span class="title">thread_function</span><span class="params">()</span></span>{    <span class="keyword">for</span> (<span class="keyword">size_t</span> i = <span class="number">0</span>; i &lt; <span class="number">100000000</span>; i++)    {        value++;    }}<span class="function"><span class="keyword">int</span> <span class="title">main</span><span class="params">()</span></span>{    <span class="class"><span class="keyword">struct</span> <span class="title">timeval</span> <span class="title">tv1</span>,<span class="title">tv2</span>;</span>    gettimeofday(&amp;tv1,<span class="literal">NULL</span>);    <span class="function">thread <span class="title">thread1</span><span class="params">(thread_function)</span></span>;    <span class="function">thread <span class="title">thread2</span><span class="params">(thread_function)</span></span>;    <span class="function">thread <span class="title">thread3</span><span class="params">(thread_function)</span></span>;    <span class="function">thread <span class="title">thread4</span><span class="params">(thread_function)</span></span>;    thread1.join();    thread2.join();    thread3.join();    thread4.join();    gettimeofday(&amp;tv2,<span class="literal">NULL</span>);    <span class="built_in">cout</span>&lt;&lt;<span class="string">"result:"</span>&lt;&lt;value&lt;&lt;<span class="string">"  time:"</span>&lt;&lt;(tv2.tv_sec-tv1.tv_sec)*<span class="number">1000000</span>+(tv2.tv_usec-tv1.tv_usec)&lt;&lt;<span class="built_in">endl</span>;}</code></pre><p>编译：g++ -std=c++11 -pthread atomic.cpp -o au.out<br>执行：./au.out</p><h3 id="Linux原子操作"><a href="#Linux原子操作" class="headerlink" title="Linux原子操作"></a>Linux原子操作</h3><p>使用__sync_add_and_fetch系列操作函数。代码：  </p><pre><code class="c++"><span class="meta">#<span class="meta-keyword">include</span> <span class="meta-string">&lt;iostream&gt;</span></span><span class="meta">#<span class="meta-keyword">include</span> <span class="meta-string">&lt;thread&gt;</span></span><span class="meta">#<span class="meta-keyword">include</span> <span class="meta-string">&lt;sys/time.h&gt;</span></span><span class="keyword">using</span> <span class="keyword">namespace</span> <span class="built_in">std</span>;<span class="keyword">volatile</span> <span class="keyword">uint32_t</span> value = <span class="number">0</span>;<span class="function"><span class="keyword">void</span> <span class="title">thread_function</span><span class="params">()</span></span>{    <span class="keyword">for</span> (<span class="keyword">size_t</span> i = <span class="number">0</span>; i &lt; <span class="number">100000000</span>; i++)    {        __sync_add_and_fetch(&amp;value,<span class="number">1</span>);    }}<span class="function"><span class="keyword">int</span> <span class="title">main</span><span class="params">()</span></span>{    <span class="class"><span class="keyword">struct</span> <span class="title">timeval</span> <span class="title">tv1</span>,<span class="title">tv2</span>;</span>    gettimeofday(&amp;tv1,<span class="literal">NULL</span>);    <span class="function">thread <span class="title">thread1</span><span class="params">(thread_function)</span></span>;    <span class="function">thread <span class="title">thread2</span><span class="params">(thread_function)</span></span>;    <span class="function">thread <span class="title">thread3</span><span class="params">(thread_function)</span></span>;    <span class="function">thread <span class="title">thread4</span><span class="params">(thread_function)</span></span>;    thread1.join();    thread2.join();    thread3.join();    thread4.join();    gettimeofday(&amp;tv2,<span class="literal">NULL</span>);    <span class="built_in">cout</span>&lt;&lt;<span class="string">"result:"</span>&lt;&lt;value&lt;&lt;<span class="string">"  time:"</span>&lt;&lt;(tv2.tv_sec-tv1.tv_sec)*<span class="number">1000000</span>+(tv2.tv_usec-tv1.tv_usec)&lt;&lt;<span class="built_in">endl</span>;}</code></pre><p>编译：g++ -std=c++11 -pthread volatile.cpp -o vo.out<br>执行：./vo.out</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;先说结论，在相同的机器上多次执行，感觉linux的原子操作比c++的原子操作快10%左右&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="编程" scheme="http://yoursite.com/categories/%E7%BC%96%E7%A8%8B/"/>
+    
+    
+      <category term="linux" scheme="http://yoursite.com/tags/linux/"/>
+    
+      <category term="c++" scheme="http://yoursite.com/tags/c/"/>
+    
+  </entry>
+  
+</feed>
